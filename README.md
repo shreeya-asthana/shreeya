@@ -1,3 +1,3 @@
 # shreeya
-my first git repository
-author-shreeya asthana
+my first git repository.
+Author-shreeya asthana
